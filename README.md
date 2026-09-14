@@ -1,6 +1,4 @@
-# Bot Crossing — your agent threads, as a colony
-
-**[botcrossing.com](https://botcrossing.com)**
+# Bot Colony — Your Agent Threads, As a Colony
 
 Every coding-agent thread on this machine is a little astronaut. They walk out of the ship, claim
 a plot for their repo, and build something. When one needs you it stops and holds a `?` over
@@ -9,10 +7,6 @@ its head; click it and the thread opens back in whichever harness it came from.
 It reads the harness's own files, on your own machine. Nothing is uploaded, there is no
 account, and **it never writes to a harness at all** — `data/colony.json`, where the map lives,
 is the only file it writes anywhere.
-
-> **Status:** published as-is. I built this for myself and cannot promise to maintain it —
-> issues and PRs are welcome but may go unanswered, and forking is an entirely reasonable
-> thing to do. [CONTRIBUTING.md](CONTRIBUTING.md) sets out what to expect.
 
 ## Run it
 
@@ -48,7 +42,7 @@ somebody writing that adapter.
 | **[Cursor](https://cursor.com)** (Anysphere) | ✅ **Supported** — agent transcripts; the composer/sidebar threads are not read yet |
 | [Amp](https://ampcode.com) (Sourcegraph) | ⬜ Not yet |
 | [Aider](https://aider.chat) | ⬜ Not yet |
-| [Goose](https://block.github.io/goose/) (Block) | ⬜ Not yet |
+| **[Goose](https://block.github.io/goose/)** (Block) | ✅ **Supported** — CLI session transcripts, live turn statuses, transcript scaling |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) (Alibaba) | ⬜ Not yet |
 | [Amazon Q Developer CLI](https://aws.amazon.com/q/developer/) | ⬜ Not yet |
 
