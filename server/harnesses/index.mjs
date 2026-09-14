@@ -15,8 +15,9 @@ import opencode from './opencode.mjs'
 import amazonQ from './amazon-q.mjs'
 import qwenCode from './qwen-code.mjs'
 import aider from './aider.mjs'
+import amp from './amp.mjs'
 
-export const HARNESSES = [claudeCode, codex, cursor, antigravity, goose, opencode, amazonQ, qwenCode, aider]
+export const HARNESSES = [claudeCode, codex, cursor, antigravity, goose, opencode, amazonQ, qwenCode, aider, amp]
 
 export const harnessById = (id) => HARNESSES.find((h) => h.id === id) || null
 

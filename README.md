@@ -40,7 +40,7 @@ somebody writing that adapter.
 | **[OpenCode](https://opencode.ai)** | ✅ **Supported** — CLI session logs, live turn statuses, transcript scaling |
 | **[Antigravity](https://antigravity.google)** (Google) | ✅ **Supported** — IDE and desktop agent sessions, live turn statuses, transcript scaling |
 | **[Cursor](https://cursor.com)** (Anysphere) | ✅ **Supported** — agent transcripts; the composer/sidebar threads are not read yet |
-| [Amp](https://ampcode.com) (Sourcegraph) | ⬜ Not yet |
+| **[Amp](https://ampcode.com)** (Sourcegraph) | ✅ **Supported** — team thread transcripts, live turn statuses, transcript scaling |
 | **[Aider](https://aider.chat)** | ✅ **Supported** — chat history markdown, live activity, transcript scaling |
 | **[Goose](https://block.github.io/goose/)** (Block) | ✅ **Supported** — CLI session transcripts, live turn statuses, transcript scaling |
 | **[Qwen Code](https://github.com/QwenLM/qwen-code)** (Alibaba) | ✅ **Supported** — session history, live turn statuses, transcript scaling |
