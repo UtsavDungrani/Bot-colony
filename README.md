@@ -43,7 +43,7 @@ somebody writing that adapter.
 | [Amp](https://ampcode.com) (Sourcegraph) | ⬜ Not yet |
 | [Aider](https://aider.chat) | ⬜ Not yet |
 | **[Goose](https://block.github.io/goose/)** (Block) | ✅ **Supported** — CLI session transcripts, live turn statuses, transcript scaling |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) (Alibaba) | ⬜ Not yet |
+| **[Qwen Code](https://github.com/QwenLM/qwen-code)** (Alibaba) | ✅ **Supported** — session history, live turn statuses, transcript scaling |
 | **[Amazon Q Developer CLI](https://aws.amazon.com/q/developer/)** | ✅ **Supported** — chat history transcripts, live turn statuses, transcript scaling |
 
 Every harness that is installed shows up at once — the colony is the union of all of them, and
