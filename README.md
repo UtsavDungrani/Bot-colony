@@ -37,7 +37,7 @@ somebody writing that adapter.
 | --- | --- |
 | **[Claude Code](https://claude.com/claude-code)** (Anthropic) | ✅ **Supported** — desktop app and CLI, including worktrees and live-process detection |
 | **[Codex](https://developers.openai.com/codex/cli)** (OpenAI) | ✅ **Supported** — desktop, VS Code and CLI sessions, opened through `codex://` |
-| [OpenCode](https://opencode.ai) | ⬜ Not yet |
+| **[OpenCode](https://opencode.ai)** | ✅ **Supported** — CLI session logs, live turn statuses, transcript scaling |
 | **[Antigravity](https://antigravity.google)** (Google) | ✅ **Supported** — IDE and desktop agent sessions, live turn statuses, transcript scaling |
 | **[Cursor](https://cursor.com)** (Anysphere) | ✅ **Supported** — agent transcripts; the composer/sidebar threads are not read yet |
 | [Amp](https://ampcode.com) (Sourcegraph) | ⬜ Not yet |

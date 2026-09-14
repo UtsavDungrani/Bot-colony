@@ -11,8 +11,9 @@ import codex from './codex.mjs'
 import cursor from './cursor.mjs'
 import antigravity from './antigravity.mjs'
 import goose from './goose.mjs'
+import opencode from './opencode.mjs'
 
-export const HARNESSES = [claudeCode, codex, cursor, antigravity, goose]
+export const HARNESSES = [claudeCode, codex, cursor, antigravity, goose, opencode]
 
 export const harnessById = (id) => HARNESSES.find((h) => h.id === id) || null
 
