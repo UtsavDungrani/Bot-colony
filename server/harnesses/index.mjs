@@ -12,8 +12,9 @@ import cursor from './cursor.mjs'
 import antigravity from './antigravity.mjs'
 import goose from './goose.mjs'
 import opencode from './opencode.mjs'
+import amazonQ from './amazon-q.mjs'
 
-export const HARNESSES = [claudeCode, codex, cursor, antigravity, goose, opencode]
+export const HARNESSES = [claudeCode, codex, cursor, antigravity, goose, opencode, amazonQ]
 
 export const harnessById = (id) => HARNESSES.find((h) => h.id === id) || null
 

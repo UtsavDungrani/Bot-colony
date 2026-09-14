@@ -44,7 +44,7 @@ somebody writing that adapter.
 | [Aider](https://aider.chat) | ⬜ Not yet |
 | **[Goose](https://block.github.io/goose/)** (Block) | ✅ **Supported** — CLI session transcripts, live turn statuses, transcript scaling |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) (Alibaba) | ⬜ Not yet |
-| [Amazon Q Developer CLI](https://aws.amazon.com/q/developer/) | ⬜ Not yet |
+| **[Amazon Q Developer CLI](https://aws.amazon.com/q/developer/)** | ✅ **Supported** — chat history transcripts, live turn statuses, transcript scaling |
 
 Every harness that is installed shows up at once — the colony is the union of all of them, and
 an astronaut carries the name of the harness it belongs to.
