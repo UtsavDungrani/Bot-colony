@@ -41,7 +41,7 @@ somebody writing that adapter.
 | **[Antigravity](https://antigravity.google)** (Google) | ✅ **Supported** — IDE and desktop agent sessions, live turn statuses, transcript scaling |
 | **[Cursor](https://cursor.com)** (Anysphere) | ✅ **Supported** — agent transcripts; the composer/sidebar threads are not read yet |
 | [Amp](https://ampcode.com) (Sourcegraph) | ⬜ Not yet |
-| [Aider](https://aider.chat) | ⬜ Not yet |
+| **[Aider](https://aider.chat)** | ✅ **Supported** — chat history markdown, live activity, transcript scaling |
 | **[Goose](https://block.github.io/goose/)** (Block) | ✅ **Supported** — CLI session transcripts, live turn statuses, transcript scaling |
 | **[Qwen Code](https://github.com/QwenLM/qwen-code)** (Alibaba) | ✅ **Supported** — session history, live turn statuses, transcript scaling |
 | **[Amazon Q Developer CLI](https://aws.amazon.com/q/developer/)** | ✅ **Supported** — chat history transcripts, live turn statuses, transcript scaling |
